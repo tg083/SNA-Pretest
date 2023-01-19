@@ -27,7 +27,7 @@ name:	name oder Bezeichnung des Knotens.
 
 typ:	Art des Knotens: 1=Spieler 2=Verein 3=Liga
 
-Verein:	aktueller Verein, Stand 31.1.2022
+Verein:	aktueller Verein, Stand 31.1.2023
 Jugendverein:	Verein, von dem der Spieler den Sprung in den Herrenbereich geschafft hat
 
 Land:	Land der Vereine
